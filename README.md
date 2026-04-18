@@ -22,5 +22,7 @@ curl -sSL https://raw.githubusercontent.com/ZaguzinAlex/BE7000-Script-QWRT/main/
 Скриншоты:
 
 <img width="922" height="773" alt="2" src="https://github.com/user-attachments/assets/b029d545-b08a-43d4-bc1d-25b7c95a73bc" />
+
 <img width="923" height="906" alt="3" src="https://github.com/user-attachments/assets/603fa60c-32e8-47a2-a24a-59c24923540d" />
+
 <img width="923" height="735" alt="1" src="https://github.com/user-attachments/assets/a794c89c-36f4-46dd-a09e-637c40790dc4" />
