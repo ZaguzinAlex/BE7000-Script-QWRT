@@ -19,7 +19,7 @@ curl -sSL https://raw.githubusercontent.com/ZaguzinAlex/BE7000-Script-QWRT/main/
 
 Запускать можно прямо во встроенном терминале админки роутера или через любой другой.
 
-Скриншоты:
+Скриншоты (На ошибки в скриншотах не обращаем внимания. Сейчас у меня overlay не смонтирован):
 
 <img width="922" height="773" alt="2" src="https://github.com/user-attachments/assets/b029d545-b08a-43d4-bc1d-25b7c95a73bc" />
 
