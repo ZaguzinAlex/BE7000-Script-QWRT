@@ -21,6 +21,3 @@ curl -sSL https://raw.githubusercontent.com/ZaguzinAlex/BE7000-Script-QWRT/main/
 
 Скриншоты:
 
-![1]([https://github.com/jon/coolproject/raw/master/image/image.png](https://github.com/ZaguzinAlex/BE7000-Script-QWRT/blob/main/1.jpg))
-![2]([https://github.com/jon/coolproject/raw/master/image/image.png](https://github.com/ZaguzinAlex/BE7000-Script-QWRT/blob/main/2.jpg))
-![3]([https://github.com/jon/coolproject/raw/master/image/image.png](https://github.com/ZaguzinAlex/BE7000-Script-QWRT/blob/main/3.jpg))
